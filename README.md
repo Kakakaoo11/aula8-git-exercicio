@@ -16,17 +16,6 @@ Cyberpunk 2077 é jogado em primeira pessoa e combina combate, exploração e ha
 
 
 
-Guilherme Laender a22607345
-Jenifer Fernandes a22608274
-XueYan Chen a22608427
-
-
-
-
-
-
-
-
 # Personagens ou Itens
 
 ## Personagens e Equipamento de Night City
@@ -166,4 +155,8 @@ https://cyberpunk.fandom.com/wiki/Cyberpunk_2077
 https://pt.wikipedia.org/wiki/Cyberpunk_2077
 
 
+Guilherme Laender a22607345
 
+Jenifer Fernandes a22608274
+
+XueYan Chen a22608427
