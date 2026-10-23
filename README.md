@@ -1,3 +1,10 @@
+
+# Introdução ao jogo
+
+
+
+
+
 ## Personagens e Equipamento de Night City
 
 Em Cyberpunk 2077, o ecossistema de Night City é moldado por mercenários lendários, corporações implacáveis e tecnologia cibernética de ponta. Abaixo estão detalhados os principais intervenientes e as armas/itens mais marcantes do jogo.
@@ -70,3 +77,16 @@ A partir deste ponto, o objetivo principal do jogo torna-se uma busca desesperad
 * **A Arasaka Corporation:** A megacorporação japonesa responsável pela criação do *Relic* e pela maior parte do controlo e vigilância em Night City.
 * **O Mnemónico da Morte:** O inevitável cronómetro biológico obriga o jogador a ponderar as suas alianças e prioridades ao longo da história.
 * **Múltiplos Finais:** As escolhas feitas durante as missões principais e secundárias determinam o destino final de V, de Johnny e das pessoas mais próximas.
+
+
+
+
+
+# Estratégia e Walkthrough
+
+
+
+
+
+# Links úteis e fontes
+>>>>>>> cf4ba38a17b6d2d6195c8f726cb35e72636cb6a9
