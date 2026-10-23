@@ -17,10 +17,10 @@ Cyberpunk 2077 é jogado em primeira pessoa e combina combate, exploração e ha
 
 
 
-<<<<<<< HEAD
+
 
 # Personagens ou Itens
-=======
+
 ## Personagens e Equipamento de Night City
 
 Em Cyberpunk 2077, o ecossistema de Night City é moldado por mercenários lendários, corporações implacáveis e tecnologia cibernética de ponta. Abaixo estão detalhados os principais intervenientes e as armas/itens mais marcantes do jogo.
@@ -42,10 +42,9 @@ Em Cyberpunk 2077, o ecossistema de Night City é moldado por mercenários lend�
   * **Personalidade Carismática e Rebelde:** Influencia o enredo e as decisões de V ao longo do jogo.
   * **Atirador Experiente:** Mestre no uso do seu lendário canhão de mão (*Malorian Arms 3516*).
   * **Conhecimentos da Lenda de Night City:** Guia e conselheiro estratégico sobre o submundo das corporações.
->>>>>>> 0870ff20c93fb192347836313fbfc800570d0619
 
 
----
+
 
 ### Equipamento e Armamento Emblemático
 
@@ -69,7 +68,6 @@ Em Cyberpunk 2077, o ecossistema de Night City é moldado por mercenários lend�
 
 A narrativa de *Cyberpunk 2077* desenrola-se no ano de 2077, na megalópole futurista de **Night City**, no estado da Califórnia. Num mundo dominado pela ganância das megacorporações, pela tecnologia obsessiva e pela modificação corporal, a história explora temas como a identidade, a mortalidade e o preço da ambição.
 
----
 
 ### O Enredo Principal
 
@@ -148,22 +146,11 @@ flowchart TD
     IDF12 --> IDF14(CREDITOS JOGO GANHO)
     IDF13 --> IDF14
 ```
-
 ```
 
 ```
 
 
-
-
-<<<<<<< HEAD
-
-
-
-
-# Links úteis e fontes
->>>>>>> cf4ba38a17b6d2d6195c8f726cb35e72636cb6a9
-=======
 # Links úteis e fontes
 https://www.cyberpunk.net/br/pt-br/
 https://psverso.com.br/analises/
@@ -172,4 +159,3 @@ https://pt.wikipedia.org/wiki/Cyberpunk_2077
 
 
 
->>>>>>> 3f3e54463384353c6f135edc6e3e2a99a0e7af64
